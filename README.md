@@ -7,7 +7,7 @@ Word list was extracted from [Mieliestronk's](http://www.mieliestronk.com/wordli
 # Usage
 
 Use the function *get_suggestions* with the 3 following arguments:
-+ a key of 5 characters using underscores for the unknown letters
++ a string of 5 characters using underscores for the unknown letters
 + a string with letters present in the word
 + a string with letters that are not in the word
 
